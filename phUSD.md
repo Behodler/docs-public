@@ -24,7 +24,7 @@ From the very beginning, the vision to realise **Behodler 3** has been clear: im
 > 
 
 
-ReFlax was always a working name for the project to highlight the nature of reinvestment inherent in the design. ReFlax went through several iterations — each exploring how to bring external yield into the protocol and use it to strengthen the Behodler ecosystem. The vision of importing DeFi yield is strong but the challenge lies in retaining that yield. Ultimately an app that pays stakers who leave as soon as they arrive may end up paying valuabel reward tokens in exchange for practically no value. This valueless transfer shows up as inflation. Ultimately this is unsustainable as every price shock weakens the ecosystem as fickle users flee, taking their staked capital with them.
+ReFlax was always a working name for the project to highlight the nature of reinvestment inherent in the design. ReFlax went through several iterations — each exploring how to bring external yield into the protocol and use it to strengthen the Behodler ecosystem. The vision of importing DeFi yield is strong but the challenge lies in retaining that yield. Ultimately an app that pays stakers who leave as soon as they arrive may end up paying valuable reward tokens in exchange for practically no value. This valueless transfer shows up as inflation. Ultimately this is unsustainable as every price shock weakens the ecosystem as fickle users flee, taking their staked capital with them.
 
 This is at odds with the **antifragile** impulse that has always animated Behodler. Antifragility, a term coined by Nassim Nicholas Taleb, describes systems that don’t just survive shocks, but actually *benefit* and grow stronger from volatility, randomness, and stress.
 
