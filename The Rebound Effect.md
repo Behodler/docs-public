@@ -19,7 +19,7 @@ We call this reflexive dynamic the **Rebound Effect**.
 To understand the rebound below peg, it’s important to distinguish two systems:
 
 - **Liquidity Pool (LP):** Where phUSD trades against a yield-bearing token. This sets the market price.  
-- **Yield Vault:** Holds the yield-bearing token. Its size is fixed in token terms and does not shrink when LP price changes.  
+- **Yield Vault:** Holds a yield-bearing token. Its size is fixed in token terms and does not shrink when LP price changes.  
 
 When phUSD trades below $1:  
 - The LP base shrinks as the pricing token falls.  
