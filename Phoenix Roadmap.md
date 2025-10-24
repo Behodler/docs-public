@@ -40,7 +40,7 @@ With a strong capital base in place, Phoenix is ready to stabilize — and the E
 
 ## Phase 2: Stabilisation 
 
-<img src="https://github.com/user-attachments/assets/fe047e99-f427-4fd9-94c8-d5f8a7fcc53a" width="55%">
+![phase 2](https://github.com/user-attachments/assets/86c95896-f64a-4b08-8e28-917d421d9fb0)
 
 In the **Stabilisation phase**, phUSD finds its equilibrium through the Evergreen Loop we have already covered elsewhere. To recap:
 
@@ -56,7 +56,7 @@ Phase 2 creates a **perpetual motion machine for stability**, laying the groundw
 
 ## Phase 3: Yield
 
-<img src="https://github.com/user-attachments/assets/f4826a43-b55d-4fa7-952d-896700977f09" width="55%">
+![phase 3](https://github.com/user-attachments/assets/6eb1fcf9-b492-4b69-8617-46cb01d1794a)
 
 How do you create yield in DeFi that is sustainable and compounding, not fleeting?
 
@@ -76,7 +76,7 @@ Every phase before this one was preparation:
 
 ## Phase 4: Wield
 
-<img src="https://github.com/user-attachments/assets/34692d69-2e50-402a-a293-057f57b4bbbd" width="60%">
+![Phase 4](https://github.com/user-attachments/assets/ed20efc6-e121-430c-9016-dc29a63f5421)
 
 How does Phoenix turn stability into influence?
 
@@ -96,7 +96,7 @@ At this stage, Phoenix transforms from a vault into a **monetary engine** — it
 
 ## Phase 5: Guild
 
-<img src="https://github.com/user-attachments/assets/01812b18-eaf6-40ec-9254-3735c4dde383" width="60%">
+![phase 5](https://github.com/user-attachments/assets/332836dd-15a6-4570-8f11-37942e39181c)
 
 To keep the system adaptable and decentralised, control over how yield is routed needs to move gradually from the team to the community.  
 
@@ -109,7 +109,7 @@ EYE holders become the custodians of Phoenix’s ongoing growth, ensuring yield 
 
 ## Phase 6: Shield
 
-<img src="https://github.com/user-attachments/assets/a44dc285-ba9f-4015-8d6f-dcdb52ca07d3" width="40%">
+<img width="1024" height="1536" alt="Flaming Sword shield" src="https://github.com/user-attachments/assets/b1849026-479d-4ea0-8912-45e78239c2b4" />
 
 Key to Phoenix's Evergreen promise,  is not just growth, but sustainability. 
 
