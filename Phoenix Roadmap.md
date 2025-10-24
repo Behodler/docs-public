@@ -10,7 +10,8 @@ This roadmap charts each phase of Phoenix roadmap and then situates Phoenix with
 
 ## Phase 1: Ignition 
 
-<img src="https://github.com/user-attachments/assets/b31f5fa4-9a62-45ad-a51b-a4b1e43d4e8e" width="55%">
+![ignition](https://github.com/user-attachments/assets/fec8bb43-32b0-461e-9f12-7abe128296f5)
+
 
 Problem: How do you launch a stablecoin that’s strong from day one?
 
