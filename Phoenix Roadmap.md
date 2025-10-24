@@ -10,8 +10,7 @@ This roadmap charts each phase of Phoenix roadmap and then situates Phoenix with
 
 ## Phase 1: Ignition 
 
-![ignition](https://github.com/user-attachments/assets/fec8bb43-32b0-461e-9f12-7abe128296f5)
-
+<img src="https://github.com/user-attachments/assets/fec8bb43-32b0-461e-9f12-7abe128296f5" alt="ignition" width="55%">
 
 Problem: How do you launch a stablecoin that’s strong from day one?
 
@@ -40,7 +39,7 @@ With a strong capital base in place, Phoenix is ready to stabilize — and the E
 
 ## Phase 2: Stabilisation 
 
-![phase 2](https://github.com/user-attachments/assets/86c95896-f64a-4b08-8e28-917d421d9fb0)
+<img src="https://github.com/user-attachments/assets/86c95896-f64a-4b08-8e28-917d421d9fb0" alt="phase 2" width="55%">
 
 In the **Stabilisation phase**, phUSD finds its equilibrium through the Evergreen Loop we have already covered elsewhere. To recap:
 
@@ -56,7 +55,7 @@ Phase 2 creates a **perpetual motion machine for stability**, laying the groundw
 
 ## Phase 3: Yield
 
-![phase 3](https://github.com/user-attachments/assets/6eb1fcf9-b492-4b69-8617-46cb01d1794a)
+<img src="https://github.com/user-attachments/assets/6eb1fcf9-b492-4b69-8617-46cb01d1794a" alt="phase 3" width="55%">
 
 How do you create yield in DeFi that is sustainable and compounding, not fleeting?
 
@@ -76,7 +75,7 @@ Every phase before this one was preparation:
 
 ## Phase 4: Wield
 
-![Phase 4](https://github.com/user-attachments/assets/ed20efc6-e121-430c-9016-dc29a63f5421)
+<img src="https://github.com/user-attachments/assets/ed20efc6-e121-430c-9016-dc29a63f5421" alt="Phase 4" width="55%">
 
 How does Phoenix turn stability into influence?
 
@@ -96,7 +95,7 @@ At this stage, Phoenix transforms from a vault into a **monetary engine** — it
 
 ## Phase 5: Guild
 
-![phase 5](https://github.com/user-attachments/assets/332836dd-15a6-4570-8f11-37942e39181c)
+<img src="https://github.com/user-attachments/assets/332836dd-15a6-4570-8f11-37942e39181c" alt="phase 5" width="55%">
 
 To keep the system adaptable and decentralised, control over how yield is routed needs to move gradually from the team to the community.  
 
@@ -109,7 +108,7 @@ EYE holders become the custodians of Phoenix’s ongoing growth, ensuring yield 
 
 ## Phase 6: Shield
 
-<img width="1024" height="1536" alt="Flaming Sword shield" src="https://github.com/user-attachments/assets/b1849026-479d-4ea0-8912-45e78239c2b4" />
+<img src="https://github.com/user-attachments/assets/b1849026-479d-4ea0-8912-45e78239c2b4" alt="Flaming Sword shield" width="40%">
 
 Key to Phoenix's Evergreen promise,  is not just growth, but sustainability. 
 
