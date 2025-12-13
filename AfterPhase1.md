@@ -8,7 +8,8 @@ A side effect of phUSD is to inject new liquidity into the entire Behodler ecosy
 
 So whether you’re a long-term Behoblin or just someone new looking for an early-adopter opportunity, you’ve minted phUSD on phusd.behodler.io at a discount (if you haven’t, go do it now). This is **Phase 1**, the initial capitalization.
 
-<img width="725" height="181" alt="Image" src="https://github.com/user-attachments/assets/063689f1-de8a-4fa8-b9c6-335b12c19ef8" />
+<img width="725" height="181" alt="UI" src="https://github.com/user-attachments/assets/ab6f88e6-4188-43d1-a912-8ead9efb12bb" />
+
 
 Phase 1 is the ignition round where we raise the initial seed capital used to ignite the cycle of perpetual liquidity growth. After this phase concludes, we enter a phase of stabilization. This is where we take the capital raised in Phase 1 and split it into two separate components of growth. Astute readers may notice that we initially go from 100% capitalization of phUSD on the bonding curve of Ignition to an under-capitalized version immediately after, where some of the capital is put in an AMM and the rest in a growth vault.
 
@@ -181,7 +182,7 @@ However, we can do one better. Suppose we set the phUSD emission to 6% so that, 
 
 The contracts have been written for the yield farm that we’re codenaming **phLimbo**. 
 
-<img width="503" height="500" alt="image" src="https://github.com/user-attachments/assets/9faa54bf-ef51-43ab-9e9e-56aac4c3cb91" />
+<img width="503" height="500" alt="phlimbo" src="https://github.com/user-attachments/assets/1ce1225d-9f08-43e3-a0e4-10c77bcda1b9" />
 
 
 Silly names are just for contracts. The UI will present a straightforward interface. The minter contract has also been written. What remains is some security reviewing and the UI. Phlimbo is in the final stages of post audit fixing. After that, phUSD holders can immediately start earning high yield on their phUSD minted in the Ignition Phase.
