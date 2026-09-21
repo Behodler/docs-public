@@ -2,7 +2,7 @@
 
 *An introduction to Phoenix's latest feature — what it is and how it works.*
 
-<img width="627" height="627" alt="Antimatter logo" src="https://github.com/user-attachments/assets/a12fdd93-039c-4625-ac7a-3b8806df9f2f" />
+<img width="627" height="627" alt="image" src="https://github.com/user-attachments/assets/e4beffbd-20fa-4a84-a12b-fa24bcd2af48" />
 
 
 ## Some quick background
